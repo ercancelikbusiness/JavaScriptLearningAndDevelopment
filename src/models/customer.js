@@ -6,7 +6,7 @@ export default class Customer extends User{ // benzer alanlar User'dada vardı a
         super(id, firstName, lastName, city,age); // aynı olan alanları super'e gönderdik set ettik yani aynı alanları customerada vermeye gerek yok 
         this.creditCardNumber=creditCardNumber;
 
-
+ 
     }
 }
 

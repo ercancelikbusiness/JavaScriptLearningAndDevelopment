@@ -1,2 +1,2 @@
 # advancedJavaScript
-JavaScript Gelistirme Ogrenme Ercan Celik
+JavaScript dev Ercan Çelik

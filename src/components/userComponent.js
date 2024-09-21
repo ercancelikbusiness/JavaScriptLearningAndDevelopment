@@ -4,7 +4,7 @@ import Customer from "../models/customer.js";
 import User from "../models/user.js"
 import UserService from "../services/userService.js"
 //altta eğer bir sınıfın defaultu değilde başka birşeyleri import edeceksek yazacağımız şablonu gösterdim
-//import {UserService,asdw,qwd2,} from "../services/userService.js" 
+//import {UserService,asdw,qwd2,} from "../services/userService.js"  
 
 console.log("User component yüklendi")
 

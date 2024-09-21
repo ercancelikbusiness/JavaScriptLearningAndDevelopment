@@ -117,4 +117,4 @@ function asd([x],y,z=10) {
 }
 asd([10000,20000],3000) // burda çıktı 3000 dir çünkü x dizidir ve tek eleman var dolayısıyla atama olursa ilk elemanı alır
 //  yani 20000 hiçbirşey ifade etmez ayrıca z ye atama gelmezse varsayılan =10 olsun komutu verilmiş şuanlık z =10
-// eğer asd([10000, 20000], 3000,4000); olsaydı x 10000 y 3000 z 4000 olacaktı çünkü artık z ye bir atama yapılmış olurdu
+// eğer asd([10000, 20000], 3000,4000); olsaydı x 10000 y 3000 z 4000 olacaktı çünkü artık z ye bir atama yapılmış olurdu 

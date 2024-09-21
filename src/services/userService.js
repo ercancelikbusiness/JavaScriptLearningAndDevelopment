@@ -13,7 +13,7 @@ export default class UserService {
         this.errors = [];
         this.loggerService = loggerService;
     }
-
+ 
     load() {
         for (const user of users) { // bu forof döngüsüdür. user takma isim
             switch (user.type) { // users' sınıfından gelen datanın tipi customer ise onu bu sınıfdaki customerse pushla yada employee ise ona pushla

@@ -8,7 +8,7 @@
         firstName: "Ercan",
         lastName: " Celik",
         city:"Ankara",
-        age: 29,
+        age: 29, 
         creditCardNumber: "123456",
         type: "customer"
     },

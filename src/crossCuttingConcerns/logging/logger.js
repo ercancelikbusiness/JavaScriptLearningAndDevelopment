@@ -2,7 +2,7 @@
 // aslında oda yeni bir klasör demek loggingin içinede loglama için logger.js i açtık
 
 export class BaseLogger{
-    log(data){
+    log(data){ 
         console.log("default/base logger : " + data)
         
     }
